@@ -1,0 +1,10 @@
+C:\Users\jair\source\repos\progral-semi-2026\MiPrimeraaplicacion\MiPrimeraaplicacion\bin\Debug\MiPrimeraaplicacion.exe.config
+C:\Users\jair\source\repos\progral-semi-2026\MiPrimeraaplicacion\MiPrimeraaplicacion\bin\Debug\MiPrimeraaplicacion.exe
+C:\Users\jair\source\repos\progral-semi-2026\MiPrimeraaplicacion\MiPrimeraaplicacion\bin\Debug\MiPrimeraaplicacion.pdb
+C:\Users\jair\source\repos\progral-semi-2026\MiPrimeraaplicacion\MiPrimeraaplicacion\obj\Debug\MiPrimeraaplicacion.csproj.AssemblyReference.cache
+C:\Users\jair\source\repos\progral-semi-2026\MiPrimeraaplicacion\MiPrimeraaplicacion\obj\Debug\MiPrimeraaplicacion.btnsaludo.resources
+C:\Users\jair\source\repos\progral-semi-2026\MiPrimeraaplicacion\MiPrimeraaplicacion\obj\Debug\MiPrimeraaplicacion.Properties.Resources.resources
+C:\Users\jair\source\repos\progral-semi-2026\MiPrimeraaplicacion\MiPrimeraaplicacion\obj\Debug\MiPrimeraaplicacion.csproj.GenerateResource.cache
+C:\Users\jair\source\repos\progral-semi-2026\MiPrimeraaplicacion\MiPrimeraaplicacion\obj\Debug\MiPrimeraaplicacion.csproj.CoreCompileInputs.cache
+C:\Users\jair\source\repos\progral-semi-2026\MiPrimeraaplicacion\MiPrimeraaplicacion\obj\Debug\MiPrimeraaplicacion.exe
+C:\Users\jair\source\repos\progral-semi-2026\MiPrimeraaplicacion\MiPrimeraaplicacion\obj\Debug\MiPrimeraaplicacion.pdb
