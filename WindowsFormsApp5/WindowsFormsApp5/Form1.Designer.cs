@@ -33,7 +33,6 @@
             this.txtEmpleado = new System.Windows.Forms.TextBox();
             this.txtSueldo = new System.Windows.Forms.TextBox();
             this.btnCalcular = new System.Windows.Forms.Button();
-            this.btnAgregarOtro = new System.Windows.Forms.Button();
             this.btnSalir = new System.Windows.Forms.Button();
             this.dataGridView1 = new System.Windows.Forms.DataGridView();
             this.Column1 = new System.Windows.Forms.DataGridViewTextBoxColumn();
@@ -80,7 +79,7 @@
             // 
             // btnCalcular
             // 
-            this.btnCalcular.Location = new System.Drawing.Point(286, 143);
+            this.btnCalcular.Location = new System.Drawing.Point(207, 148);
             this.btnCalcular.Name = "btnCalcular";
             this.btnCalcular.Size = new System.Drawing.Size(75, 23);
             this.btnCalcular.TabIndex = 4;
@@ -88,23 +87,15 @@
             this.btnCalcular.UseVisualStyleBackColor = true;
             this.btnCalcular.Click += new System.EventHandler(this.btnCalcular_Click);
             // 
-            // btnAgregarOtro
-            // 
-            this.btnAgregarOtro.Location = new System.Drawing.Point(180, 169);
-            this.btnAgregarOtro.Name = "btnAgregarOtro";
-            this.btnAgregarOtro.Size = new System.Drawing.Size(75, 23);
-            this.btnAgregarOtro.TabIndex = 5;
-            this.btnAgregarOtro.Text = "agregar otro";
-            this.btnAgregarOtro.UseVisualStyleBackColor = true;
-            // 
             // btnSalir
             // 
-            this.btnSalir.Location = new System.Drawing.Point(372, 180);
+            this.btnSalir.Location = new System.Drawing.Point(328, 148);
             this.btnSalir.Name = "btnSalir";
             this.btnSalir.Size = new System.Drawing.Size(75, 23);
             this.btnSalir.TabIndex = 6;
             this.btnSalir.Text = "salir";
             this.btnSalir.UseVisualStyleBackColor = true;
+            this.btnSalir.Click += new System.EventHandler(this.btnSalir_Click_1);
             // 
             // dataGridView1
             // 
@@ -171,7 +162,6 @@
             this.ClientSize = new System.Drawing.Size(800, 450);
             this.Controls.Add(this.dataGridView1);
             this.Controls.Add(this.btnSalir);
-            this.Controls.Add(this.btnAgregarOtro);
             this.Controls.Add(this.btnCalcular);
             this.Controls.Add(this.txtSueldo);
             this.Controls.Add(this.txtEmpleado);
@@ -192,7 +182,6 @@
         private System.Windows.Forms.TextBox txtEmpleado;
         private System.Windows.Forms.TextBox txtSueldo;
         private System.Windows.Forms.Button btnCalcular;
-        private System.Windows.Forms.Button btnAgregarOtro;
         private System.Windows.Forms.Button btnSalir;
         private System.Windows.Forms.DataGridView dataGridView1;
         private System.Windows.Forms.DataGridViewTextBoxColumn Column1;

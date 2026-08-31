@@ -91,5 +91,10 @@ namespace WindowsFormsApp5 // Espacio de nombres corregido al proyecto actual
             // Cierra la aplicación
             Application.Exit();
         }
+
+        private void btnSalir_Click_1(object sender, EventArgs e)
+        {
+            Close(); 
+        }
     }
 }
