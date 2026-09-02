@@ -1,0 +1,5 @@
+C:\Users\jair\source\repos\progral-semi-2026\FuncionalidaddelIMPUESTOECONOMICAS\FuncionalidaddelIMPUESTOECONOMICAS\obj\Debug\FuncionalidaddelIMPUESTOECONOMICAS.csproj.AssemblyReference.cache
+C:\Users\jair\source\repos\progral-semi-2026\FuncionalidaddelIMPUESTOECONOMICAS\FuncionalidaddelIMPUESTOECONOMICAS\obj\Debug\FuncionalidaddelIMPUESTOECONOMICAS.Form1.resources
+C:\Users\jair\source\repos\progral-semi-2026\FuncionalidaddelIMPUESTOECONOMICAS\FuncionalidaddelIMPUESTOECONOMICAS\obj\Debug\FuncionalidaddelIMPUESTOECONOMICAS.Properties.Resources.resources
+C:\Users\jair\source\repos\progral-semi-2026\FuncionalidaddelIMPUESTOECONOMICAS\FuncionalidaddelIMPUESTOECONOMICAS\obj\Debug\FuncionalidaddelIMPUESTOECONOMICAS.csproj.GenerateResource.cache
+C:\Users\jair\source\repos\progral-semi-2026\FuncionalidaddelIMPUESTOECONOMICAS\FuncionalidaddelIMPUESTOECONOMICAS\obj\Debug\FuncionalidaddelIMPUESTOECONOMICAS.csproj.CoreCompileInputs.cache

@@ -1,0 +1,10 @@
+C:\Users\jair\source\repos\progral-semi-2026\tablademesesacumuladosmeses\tablademesesacumuladosmeses\bin\Debug\tablademesesacumuladosmeses.exe.config
+C:\Users\jair\source\repos\progral-semi-2026\tablademesesacumuladosmeses\tablademesesacumuladosmeses\bin\Debug\tablademesesacumuladosmeses.exe
+C:\Users\jair\source\repos\progral-semi-2026\tablademesesacumuladosmeses\tablademesesacumuladosmeses\bin\Debug\tablademesesacumuladosmeses.pdb
+C:\Users\jair\source\repos\progral-semi-2026\tablademesesacumuladosmeses\tablademesesacumuladosmeses\obj\Debug\tablademesesacumuladosmeses.csproj.AssemblyReference.cache
+C:\Users\jair\source\repos\progral-semi-2026\tablademesesacumuladosmeses\tablademesesacumuladosmeses\obj\Debug\tablademesesacumuladosmeses.Form1.resources
+C:\Users\jair\source\repos\progral-semi-2026\tablademesesacumuladosmeses\tablademesesacumuladosmeses\obj\Debug\tablademesesacumuladosmeses.Properties.Resources.resources
+C:\Users\jair\source\repos\progral-semi-2026\tablademesesacumuladosmeses\tablademesesacumuladosmeses\obj\Debug\tablademesesacumuladosmeses.csproj.GenerateResource.cache
+C:\Users\jair\source\repos\progral-semi-2026\tablademesesacumuladosmeses\tablademesesacumuladosmeses\obj\Debug\tablademesesacumuladosmeses.csproj.CoreCompileInputs.cache
+C:\Users\jair\source\repos\progral-semi-2026\tablademesesacumuladosmeses\tablademesesacumuladosmeses\obj\Debug\tablademesesacumuladosmeses.exe
+C:\Users\jair\source\repos\progral-semi-2026\tablademesesacumuladosmeses\tablademesesacumuladosmeses\obj\Debug\tablademesesacumuladosmeses.pdb

@@ -8,25 +8,16 @@ namespace EstablecimientodeSalud
 {
     public partial class Form1 : Form
     {
-        public class Paciente
-        {
-            public string Nombre { get; set; }
-            public int Edad { get; set; }
-            public string Motivo { get; set; }
-            public string Prioridad { get; set; }
-            public string HoraIngreso { get; set; }
-        }
-
         private List<Paciente> listaPacientes = new List<Paciente>();
         private string prioridadSeleccionada = "";
 
-        // Referencias a controles
+        
         private TextBox txtNombre;
         private TextBox txtEdad;
         private ComboBox cmbMotivo;
         private DataGridView tabla;
 
-        // Referencias a los Labels
+        
         private Label lbl2;
         private Label lbl3;
         private Label lbl4;
@@ -39,7 +30,7 @@ namespace EstablecimientodeSalud
 
         private void EnlazarControles()
         {
-            // 1. Obtener TextBox ordenados horizontalmente (Nombre, Edad)
+            
             var textBoxes = this.Controls.OfType<TextBox>().OrderBy(t => t.Left).ToList();
 
             if (textBoxes.Count >= 2)
@@ -52,16 +43,16 @@ namespace EstablecimientodeSalud
                 txtNombre = textBoxes[0];
             }
 
-            // 2. Asignar ComboBox y DataGridView
+            
             cmbMotivo = this.Controls.OfType<ComboBox>().FirstOrDefault();
             tabla = this.Controls.OfType<DataGridView>().FirstOrDefault();
 
-            // Configurar DataGridView para usar las columnas existentes y evitar duplicados
+            
             if (tabla != null)
             {
                 tabla.AutoGenerateColumns = false;
 
-                // Mapear manualmente las propiedades del objeto Paciente con las columnas del diseñador
+                
                 if (tabla.Columns.Count >= 4)
                 {
                     tabla.Columns[0].DataPropertyName = "Nombre";
@@ -75,7 +66,7 @@ namespace EstablecimientodeSalud
                 }
             }
 
-            // 3. Buscar label2, label3 y label4
+            
             lbl2 = this.Controls.Find("label2", true).FirstOrDefault() as Label;
             lbl3 = this.Controls.Find("label3", true).FirstOrDefault() as Label;
             lbl4 = this.Controls.Find("label4", true).FirstOrDefault() as Label;
@@ -91,7 +82,7 @@ namespace EstablecimientodeSalud
                 }
             }
 
-            // 4. Configurar eventos de los botones
+            
             foreach (Control c in this.Controls)
             {
                 if (c is Button btn)
@@ -111,7 +102,7 @@ namespace EstablecimientodeSalud
                 }
             }
 
-            // Cargar ítems al ComboBox
+           
             if (cmbMotivo != null)
             {
                 cmbMotivo.Items.Clear();
@@ -174,7 +165,7 @@ namespace EstablecimientodeSalud
                 return;
             }
 
-            // Ordenar por prioridad (Rojo primero, luego Amarillo, luego Verde)
+            
             Paciente siguiente = listaPacientes
                 .OrderBy(p => p.Prioridad.Contains("Rojo") ? 1 : p.Prioridad.Contains("Amarillo") ? 2 : 3)
                 .First();
@@ -196,7 +187,7 @@ namespace EstablecimientodeSalud
             }
         }
 
-        // Eventos requeridos por el diseñador visual
+        
         private void label1_Click(object sender, EventArgs e)
         {
         }
@@ -204,5 +195,15 @@ namespace EstablecimientodeSalud
         private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
         {
         }
+    }
+
+    
+    public class Paciente
+    {
+        public string Nombre { get; set; }
+        public int Edad { get; set; }
+        public string Motivo { get; set; }
+        public string Prioridad { get; set; }
+        public string HoraIngreso { get; set; }
     }
 }
