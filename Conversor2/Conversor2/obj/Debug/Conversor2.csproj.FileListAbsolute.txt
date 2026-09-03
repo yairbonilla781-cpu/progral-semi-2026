@@ -1,0 +1,10 @@
+C:\Users\jair\source\repos\progral-semi-2026\Conversor2\Conversor2\bin\Debug\Conversor2.exe.config
+C:\Users\jair\source\repos\progral-semi-2026\Conversor2\Conversor2\bin\Debug\Conversor2.exe
+C:\Users\jair\source\repos\progral-semi-2026\Conversor2\Conversor2\bin\Debug\Conversor2.pdb
+C:\Users\jair\source\repos\progral-semi-2026\Conversor2\Conversor2\obj\Debug\Conversor2.csproj.AssemblyReference.cache
+C:\Users\jair\source\repos\progral-semi-2026\Conversor2\Conversor2\obj\Debug\Conversor2.Form1.resources
+C:\Users\jair\source\repos\progral-semi-2026\Conversor2\Conversor2\obj\Debug\Conversor2.Properties.Resources.resources
+C:\Users\jair\source\repos\progral-semi-2026\Conversor2\Conversor2\obj\Debug\Conversor2.csproj.GenerateResource.cache
+C:\Users\jair\source\repos\progral-semi-2026\Conversor2\Conversor2\obj\Debug\Conversor2.csproj.CoreCompileInputs.cache
+C:\Users\jair\source\repos\progral-semi-2026\Conversor2\Conversor2\obj\Debug\Conversor2.exe
+C:\Users\jair\source\repos\progral-semi-2026\Conversor2\Conversor2\obj\Debug\Conversor2.pdb

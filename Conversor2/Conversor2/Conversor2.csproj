@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{B2417BC9-D033-411A-BF94-C46FE75F8E8E}</ProjectGuid>
+    <ProjectGuid>{59A4E326-8D3F-4B00-AF83-C1A9C46594CE}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>tablademesesacumuladosmeses</RootNamespace>
-    <AssemblyName>tablademesesacumuladosmeses</AssemblyName>
+    <RootNamespace>Conversor2</RootNamespace>
+    <AssemblyName>Conversor2</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -33,9 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="System">
-      <HintPath>..\..\..\..\..\..\..\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.7.2\System.dll</HintPath>
-    </Reference>
+    <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />

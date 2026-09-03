@@ -1,0 +1,17 @@
+C:\Users\jair\source\repos\progral-semi-2026\Conversor\Conversor\bin\Debug\net10.0-windows\Conversor.exe
+C:\Users\jair\source\repos\progral-semi-2026\Conversor\Conversor\bin\Debug\net10.0-windows\Conversor.deps.json
+C:\Users\jair\source\repos\progral-semi-2026\Conversor\Conversor\bin\Debug\net10.0-windows\Conversor.runtimeconfig.json
+C:\Users\jair\source\repos\progral-semi-2026\Conversor\Conversor\bin\Debug\net10.0-windows\Conversor.dll
+C:\Users\jair\source\repos\progral-semi-2026\Conversor\Conversor\bin\Debug\net10.0-windows\Conversor.pdb
+C:\Users\jair\source\repos\progral-semi-2026\Conversor\Conversor\obj\Debug\net10.0-windows\Conversor.Form1.resources
+C:\Users\jair\source\repos\progral-semi-2026\Conversor\Conversor\obj\Debug\net10.0-windows\Conversor.csproj.GenerateResource.cache
+C:\Users\jair\source\repos\progral-semi-2026\Conversor\Conversor\obj\Debug\net10.0-windows\Conversor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jair\source\repos\progral-semi-2026\Conversor\Conversor\obj\Debug\net10.0-windows\Conversor.AssemblyInfoInputs.cache
+C:\Users\jair\source\repos\progral-semi-2026\Conversor\Conversor\obj\Debug\net10.0-windows\Conversor.AssemblyInfo.cs
+C:\Users\jair\source\repos\progral-semi-2026\Conversor\Conversor\obj\Debug\net10.0-windows\Conversor.csproj.CoreCompileInputs.cache
+C:\Users\jair\source\repos\progral-semi-2026\Conversor\Conversor\obj\Debug\net10.0-windows\Conversor.sourcelink.json
+C:\Users\jair\source\repos\progral-semi-2026\Conversor\Conversor\obj\Debug\net10.0-windows\Conversor.dll
+C:\Users\jair\source\repos\progral-semi-2026\Conversor\Conversor\obj\Debug\net10.0-windows\refint\Conversor.dll
+C:\Users\jair\source\repos\progral-semi-2026\Conversor\Conversor\obj\Debug\net10.0-windows\Conversor.pdb
+C:\Users\jair\source\repos\progral-semi-2026\Conversor\Conversor\obj\Debug\net10.0-windows\Conversor.genruntimeconfig.cache
+C:\Users\jair\source\repos\progral-semi-2026\Conversor\Conversor\obj\Debug\net10.0-windows\ref\Conversor.dll
