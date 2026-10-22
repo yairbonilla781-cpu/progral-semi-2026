@@ -1,0 +1,11 @@
+C:\Users\jair\source\repos\progral-semi-2026\sistema académico\sistema académico\obj\Debug\sistema académico.csproj.AssemblyReference.cache
+C:\Users\jair\source\repos\progral-semi-2026\sistema académico\sistema académico\obj\Debug\sistema_académico.Form1.resources
+C:\Users\jair\source\repos\progral-semi-2026\sistema académico\sistema académico\obj\Debug\miPrimerProyectoCsharp.frmPrincipal.resources
+C:\Users\jair\source\repos\progral-semi-2026\sistema académico\sistema académico\obj\Debug\sistema_académico.Properties.Resources.resources
+C:\Users\jair\source\repos\progral-semi-2026\sistema académico\sistema académico\obj\Debug\sistema académico.csproj.GenerateResource.cache
+C:\Users\jair\source\repos\progral-semi-2026\sistema académico\sistema académico\obj\Debug\sistema académico.csproj.CoreCompileInputs.cache
+C:\Users\jair\source\repos\progral-semi-2026\sistema académico\sistema académico\bin\Debug\sistema académico.exe.config
+C:\Users\jair\source\repos\progral-semi-2026\sistema académico\sistema académico\bin\Debug\sistema académico.exe
+C:\Users\jair\source\repos\progral-semi-2026\sistema académico\sistema académico\bin\Debug\sistema académico.pdb
+C:\Users\jair\source\repos\progral-semi-2026\sistema académico\sistema académico\obj\Debug\sistema académico.exe
+C:\Users\jair\source\repos\progral-semi-2026\sistema académico\sistema académico\obj\Debug\sistema académico.pdb

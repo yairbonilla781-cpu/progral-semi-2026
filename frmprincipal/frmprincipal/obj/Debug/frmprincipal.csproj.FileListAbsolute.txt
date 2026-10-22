@@ -1,0 +1,10 @@
+C:\Users\jair\source\repos\progral-semi-2026\frmprincipal\frmprincipal\bin\Debug\frmprincipal.exe.config
+C:\Users\jair\source\repos\progral-semi-2026\frmprincipal\frmprincipal\bin\Debug\frmprincipal.exe
+C:\Users\jair\source\repos\progral-semi-2026\frmprincipal\frmprincipal\bin\Debug\frmprincipal.pdb
+C:\Users\jair\source\repos\progral-semi-2026\frmprincipal\frmprincipal\obj\Debug\frmprincipal.csproj.AssemblyReference.cache
+C:\Users\jair\source\repos\progral-semi-2026\frmprincipal\frmprincipal\obj\Debug\frmprincipal.frmprincipal.resources
+C:\Users\jair\source\repos\progral-semi-2026\frmprincipal\frmprincipal\obj\Debug\frmprincipal.Properties.Resources.resources
+C:\Users\jair\source\repos\progral-semi-2026\frmprincipal\frmprincipal\obj\Debug\frmprincipal.csproj.GenerateResource.cache
+C:\Users\jair\source\repos\progral-semi-2026\frmprincipal\frmprincipal\obj\Debug\frmprincipal.csproj.CoreCompileInputs.cache
+C:\Users\jair\source\repos\progral-semi-2026\frmprincipal\frmprincipal\obj\Debug\frmprincipal.exe
+C:\Users\jair\source\repos\progral-semi-2026\frmprincipal\frmprincipal\obj\Debug\frmprincipal.pdb

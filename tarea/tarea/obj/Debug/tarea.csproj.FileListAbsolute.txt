@@ -1,0 +1,12 @@
+C:\Users\jair\source\repos\progral-semi-2026\tarea\tarea\bin\Debug\tarea.exe.config
+C:\Users\jair\source\repos\progral-semi-2026\tarea\tarea\bin\Debug\tarea.exe
+C:\Users\jair\source\repos\progral-semi-2026\tarea\tarea\bin\Debug\tarea.pdb
+C:\Users\jair\source\repos\progral-semi-2026\tarea\tarea\obj\Debug\tarea.csproj.AssemblyReference.cache
+C:\Users\jair\source\repos\progral-semi-2026\tarea\tarea\obj\Debug\tarea.Form1.resources
+C:\Users\jair\source\repos\progral-semi-2026\tarea\tarea\obj\Debug\tarea.frm_usuario.resources
+C:\Users\jair\source\repos\progral-semi-2026\tarea\tarea\obj\Debug\tarea.Properties.Resources.resources
+C:\Users\jair\source\repos\progral-semi-2026\tarea\tarea\obj\Debug\tarea.csproj.GenerateResource.cache
+C:\Users\jair\source\repos\progral-semi-2026\tarea\tarea\obj\Debug\tarea.csproj.CoreCompileInputs.cache
+C:\Users\jair\source\repos\progral-semi-2026\tarea\tarea\obj\Debug\tarea.exe
+C:\Users\jair\source\repos\progral-semi-2026\tarea\tarea\obj\Debug\tarea.pdb
+C:\Users\jair\source\repos\progral-semi-2026\tarea\tarea\obj\Debug\tarea.frm_login.resources

@@ -1,0 +1,9 @@
+C:\Users\jair\source\repos\progral-semi-2026\prgramcion07\prgramcion07\bin\Debug\prgramcion07.exe.config
+C:\Users\jair\source\repos\progral-semi-2026\prgramcion07\prgramcion07\bin\Debug\prgramcion07.exe
+C:\Users\jair\source\repos\progral-semi-2026\prgramcion07\prgramcion07\bin\Debug\prgramcion07.pdb
+C:\Users\jair\source\repos\progral-semi-2026\prgramcion07\prgramcion07\obj\Debug\prgramcion07.csproj.AssemblyReference.cache
+C:\Users\jair\source\repos\progral-semi-2026\prgramcion07\prgramcion07\obj\Debug\prgramcion07.Properties.Resources.resources
+C:\Users\jair\source\repos\progral-semi-2026\prgramcion07\prgramcion07\obj\Debug\prgramcion07.csproj.GenerateResource.cache
+C:\Users\jair\source\repos\progral-semi-2026\prgramcion07\prgramcion07\obj\Debug\prgramcion07.csproj.CoreCompileInputs.cache
+C:\Users\jair\source\repos\progral-semi-2026\prgramcion07\prgramcion07\obj\Debug\prgramcion07.exe
+C:\Users\jair\source\repos\progral-semi-2026\prgramcion07\prgramcion07\obj\Debug\prgramcion07.pdb
